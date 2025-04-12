@@ -1,3 +1,4 @@
+
 // KliptaSite.jsx
 import { useState, useEffect } from "react";
 
@@ -18,7 +19,6 @@ export default function KliptaSite() {
 
   return (
     <div className="text-gray-800 font-sans bg-[#F4F7FA]">
-      {/* Full site JSX was previously injected here */}
       <h1 className="text-center text-4xl font-bold py-20">Klipta site loaded successfully</h1>
     </div>
   );

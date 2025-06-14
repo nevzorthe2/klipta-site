@@ -1,6 +1,6 @@
-# Klipta Site
+# StockAlert Site
 
-This is the official site for **Klipta**, built with React + TailwindCSS via Vite.
+This is the official site for **StockAlert**, built with React and TailwindCSS via Vite.
 
 ## 🚀 Deploy on Vercel
 
